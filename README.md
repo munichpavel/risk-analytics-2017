@@ -62,12 +62,15 @@ of interest rates*, Journal of Finance, 29(2): 449-470 (1974)
 ### Lecture 3: Natural Language Processing and Feature Learning
 
 * Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean,
-*Distributed Representations of Words and Phrases and their Compositionality*,
+*Distributed Representations of Words and Phrases and their
+*Compositionality* (2013),
 http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 * Marco Baroni, Georgiana Dinu and German Kruszewski, *Don’t count,
 predict! A systematic comparison of context-counting
 vs. context-predicting semantic vectors*,
 http://www.aclweb.org/anthology/P14-1023
+* Quoc Le, Tomas Mikolov, Distributed Representations of Sentences and
+  Documents (2014), https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 * Scikit-Learn tutorial on text analytics / bag of words: http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 * https://rare-technologies.com/word2vec-tutorial/
 * https://www.tensorflow.org/tutorials/word2vec
