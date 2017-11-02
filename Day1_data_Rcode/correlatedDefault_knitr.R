@@ -79,7 +79,7 @@ rho <- 0.5
 c1 <- qnorm(0.1)
 c2 <- qnorm(0.002)
 p1 <- pnorm(c1)
- p2 <- pnorm(c2)
+p2 <- pnorm(c2)
 
 n.samples <- 1e7
 #set.seed(123)
