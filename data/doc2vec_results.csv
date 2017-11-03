@@ -1,0 +1,10 @@
+"Doc2Vec(dbow,d100,n5,mc2,s0.001,t4)",0.10264
+"Doc2Vec(dbow,d100,n5,mc2,s0.001,t4)_inferred",0.1024
+"Doc2Vec(dm/c,d100,n5,w5,mc2,s0.001,t4)",0.1758
+"Doc2Vec(dm/c,d100,n5,w5,mc2,s0.001,t4)_inferred",0.1884
+"Doc2Vec(dm/m,d100,n5,w10,mc2,s0.001,t4)",0.15028
+"Doc2Vec(dm/m,d100,n5,w10,mc2,s0.001,t4)_inferred",0.178
+dbow+dmc,0.10388
+dbow+dmc_inferred,0.108
+dbow+dmm,0.10292
+dbow+dmm_inferred,0.0996
