@@ -31,6 +31,8 @@ notebook from gensim
 
 https://github.com/munichpavel/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
 
+To create a conda environment containing the packages used in this repository, see the instructions here:
+https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 ## Suggested reading
 
 ### Lecture 1: Financial crises and regulatory responses
