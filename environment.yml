@@ -89,5 +89,5 @@ dependencies:
   - peppercorn==0.5
   - prompt-toolkit==1.0.15
   - smart-open==1.5.3
-prefix: /Users/pavel/miniconda3/envs/risk
+
 
