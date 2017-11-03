@@ -2,6 +2,26 @@
 # risk_analytics
 Material for the 2017 Risk Analytics workshop for the University of Ljubljana, Masters in Financial Mathematics
 
+## Tutorial problems and grading scheme
+
+The tutorial problems for the first day are as PDFs here:
+* Lecutre 1: https://github.com/munichpavel/risk_analytics/blob/master/risk_regulation/rrProblems.pdf
+* Lecture 2:
+https://github.com/munichpavel/risk_analytics/blob/master/correlated_default/corDefaultProblems.pdf
+
+ The tutorial problems for the 2nd day are interspersed in the
+ following notebooks:
+
+* Lecture 3:
+https://github.com/munichpavel/risk_analytics/blob/master/notebooks/nlp_examples_problems.ipynb
+* Lecture 4:
+https://github.com/munichpavel/risk_analytics/blob/master/notebooks/bitcoin_transactions_examples_problems.ipynb
+* Lecture 4:
+https://github.com/munichpavel/risk_analytics/blob/master/notebooks/bitcoin_link_prediction_examples_problems.ipynb
+
+The number of points each problem brings is equal to $2^{number of
+stars of the problem}$. For a grade of 8 you have to get at least 6 points, for grade 9 at least 7 points and for 10 at least 8 points. You have to solve one problem from each of the four sets of problems unless you solved one of the problems with three stars.
+
 ## Comments about code
 
 For the first day, the examples in the lectures and the code snippets
