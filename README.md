@@ -19,8 +19,8 @@ https://github.com/munichpavel/risk_analytics/blob/master/notebooks/bitcoin_tran
 * Lecture 4:
 https://github.com/munichpavel/risk_analytics/blob/master/notebooks/bitcoin_link_prediction_examples_problems.ipynb
 
-The number of points each problem brings is equal to $$2^{number of
-stars of the problem}$$. For a grade of 8 you have to get at least 6 points, for grade 9 at least 7 points and for 10 at least 8 points. You have to solve one problem from each of the four sets of problems unless you solved one of the problems with three stars.
+The number of points each problem brings is equal to $2^3$, $2^{number of
+stars of the problem}$. For a grade of 8 you have to get at least 6 points, for grade 9 at least 7 points and for 10 at least 8 points. You have to solve one problem from each of the four sets of problems unless you solved one of the problems with three stars.
 
 ## Comments about code
 
